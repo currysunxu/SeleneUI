@@ -1,0 +1,18 @@
+Local:
+  LOCAL_ENV: "QA"
+
+Environment:
+  QA: "https://e1svc-qa.english1.cn"
+  STAGING: "https://e1svc-stg.english1.cn"
+  LIVE: "https://e1svc.kids.ef.cn"
+  STAGING_SG: "https://e1svc-stg.english1.com"
+  LIVE_SG: "https://e1svc.kids.ef.com"
+
+Salesforce:
+  QA: "https://test.salesforce.com"
+  LIVE: "https://login.salesforce.com"
+
+PingChina:
+  QA_Tencent: "http://tool.chinaz.com/speedtest/kt-asset-qa.kids.ef.cn/phonics/1/55a29416-2b1a-4b86-a8a5-27349c1ab483.mp4"
+  QA_AWS: "http://tool.chinaz.com/speedtest/kt-asset-qa.english1.cn/phonics/1/55a29416-2b1a-4b86-a8a5-27349c1ab483.mp4"
+  LIVE: "http://tool.chinaz.com/speedtest/kt-asset.kids.ef.cn/phonics/1/55a29416-2b1a-4b86-a8a5-27349c1ab483.mp4"

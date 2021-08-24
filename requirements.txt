@@ -1,0 +1,9 @@
+PyHamcrest
+ptest==1.9.5
+pytest==3.9.3
+jsonpath==0.82
+Cython
+PyJWT==1.7.0
+pytz
+selene
+

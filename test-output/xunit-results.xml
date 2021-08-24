@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<testsuite errors="0" failures="0" name="DefaultSuite" skips="0" tests="1" time="30.608" timestamp="2021-07-29 17:09:42.680336">
+		<testcase classname="Salesforce.test.createAccount.createAccount" name="test_create_account_flow" time="24.679"/>
+	</testsuite>
